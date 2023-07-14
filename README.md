@@ -6,6 +6,7 @@ paper: https://ieeexplore.ieee.org/abstract/document/8746456)https://ieeexplore.
 In this simulation, we attempted to replicate Figure 2 and Figure 3 from a specific paper. We also conducted additional simulations to further explore the topic.
 
 k-means clustering:
+
 <img src="https://github.com/RGAlavicheh/K-means/assets/94162828/e484df51-5c4a-4255-b714-423d8a03986d" alt="Image" width="400">
 
 <img src="https://github.com/RGAlavicheh/K-means/assets/94162828/5dc7b337-b88a-4208-9fd6-47d59be648a5" alt="PPP and Matern1" width="400">

@@ -9,6 +9,8 @@ k-means clustering:
 
 <img src="https://github.com/RGAlavicheh/K-means/assets/94162828/e484df51-5c4a-4255-b714-423d8a03986d" alt="Image" width="400">
 
+Generation of PPP and Matérn I:
+
 <img src="https://github.com/RGAlavicheh/K-means/assets/94162828/5dc7b337-b88a-4208-9fd6-47d59be648a5" alt="PPP and Matern1" width="400">
 
 <img src="https://github.com/RGAlavicheh/K-means/assets/94162828/e37df3db-ca53-4dba-8c51-aac47ef80f4d" alt="kmeans of points" width="400">

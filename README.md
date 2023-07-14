@@ -31,5 +31,8 @@ Figure 3:
 
 <img src="https://github.com/RGAlavicheh/K-means/assets/94162828/e0ae8937-66fb-48c8-bd5e-02b1388e3718" alt="Figure3" width="400">
 
+More simulation:
+
+<img src="https://github.com/RGAlavicheh/K-means/assets/94162828/19efcb50-4d84-4bb4-852b-aec90274769a" alt="Figure3" width="400">
 
 

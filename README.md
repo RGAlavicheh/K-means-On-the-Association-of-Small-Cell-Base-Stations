@@ -17,6 +17,11 @@ k-means clustering:
 
 ![coverage](https://github.com/RGAlavicheh/K-means/assets/94162828/cea78bc8-e2d2-4efa-bf62-1329e8a4c8a3)
 
+![figure2](https://github.com/RGAlavicheh/K-means/assets/94162828/9382bca6-c2e4-4459-9ede-98e9a368fcc6)
+
+
+![figure3](https://github.com/RGAlavicheh/K-means/assets/94162828/e0ae8937-66fb-48c8-bd5e-02b1388e3718)
+
 
 
 

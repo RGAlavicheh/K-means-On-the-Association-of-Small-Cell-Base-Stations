@@ -24,7 +24,7 @@ k-means:
 
 Figure 2:
 
-![figure2](https://github.com/RGAlavicheh/K-means/assets/94162828/1132e07b-6afb-4dea-aed5-2a4a50d6a86a)
+<img src="https://github.com/RGAlavicheh/K-means/assets/94162828/1132e07b-6afb-4dea-aed5-2a4a50d6a86a" alt="Figure2" width="400">
 
 
 Figure 3:

@@ -3,13 +3,24 @@
 
 simulation of the paper "On the Association of Small Cell Base Stations with UAVs using Unsupervised Learning" 
 In this simulation, we attempted to replicate Figure 2 and Figure 3. We also conducted additional simulations to further explore the topic.
-
+----
 Reference paper: https://ieeexplore.ieee.org/abstract/document/8746456
+----
+
+<img src="https://github.com/RGAlavicheh/K-means-On-the-Association-of-Small-Cell-Base-Stations/assets/94162828/3bbd332d-9bc0-43d1-909b-40a4943c7dab" alt="alg" width="400">
 
 materni.m implements both the [Matérn I](https://github.com/hpaulkeeler/posts/blob/master/MaternHardcoreRectangle/MaternHardcoreRectangle.m) pattern generation and the k-means clustering algorithm.
 
+# Proposed algorithm in [paper](https://ieeexplore.ieee.org/abstract/document/8746456)
+
+<img src="https://github.com/RGAlavicheh/K-means-On-the-Association-of-Small-Cell-Base-Stations/assets/94162828/fba54dde-64cc-4ce1-b1a2-89004a398f6e" alt="alg" width="400">
+
+<img src="https://github.com/RGAlavicheh/K-means-On-the-Association-of-Small-Cell-Base-Stations/assets/94162828/ff625513-4741-49b1-b923-9663acea3b25" alt="alg" width="400">
+
 
 The k-means algorithm is a popular unsupervised machine learning algorithm used for clustering data into distinct groups. Here is a summary of the k-means algorithm:
+
+<img src="https://github.com/RGAlavicheh/K-means-On-the-Association-of-Small-Cell-Base-Stations/assets/94162828/87a6e3dc-fa64-49be-bb10-1a9e2a73e033" alt="alg" width="400">
 
 <img src="https://github.com/RGAlavicheh/K-means/assets/94162828/e484df51-5c4a-4255-b714-423d8a03986d" alt="Image" width="400">
 

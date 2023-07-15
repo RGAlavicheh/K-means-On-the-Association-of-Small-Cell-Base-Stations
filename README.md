@@ -47,9 +47,7 @@ The k-means algorithm is a popular unsupervised machine learning algorithm used 
 
 ## Figure 3:
 
-
-
-<img src="https://github.com/RGAlavicheh/K-means/assets/94162828/e0ae8937-66fb-48c8-bd5e-02b1388e3718" alt="Figure3" width="400">
+<img src="https://github.com/RGAlavicheh/K-means-On-the-Association-of-Small-Cell-Base-Stations/assets/94162828/6429ee89-be45-4fe3-8e36-6d983d897c47" alt="Figure3" width="400">
 
 ## More simulation:
 

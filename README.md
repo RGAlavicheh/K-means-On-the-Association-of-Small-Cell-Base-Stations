@@ -6,7 +6,7 @@ In this simulation, we attempted to replicate Figure 2 and Figure 3. We also con
 
 Reference paper: https://ieeexplore.ieee.org/abstract/document/8746456
 
-materni.m implements both the [Matérn I]([url](https://github.com/hpaulkeeler/posts/blob/master/MaternHardcoreRectangle/MaternHardcoreRectangle.m) pattern generation and the k-means clustering algorithm.
+materni.m implements both the [Matérn I](https://github.com/hpaulkeeler/posts/blob/master/MaternHardcoreRectangle/MaternHardcoreRectangle.m) pattern generation and the k-means clustering algorithm.
 
 
 The k-means algorithm is a popular unsupervised machine learning algorithm used for clustering data into distinct groups. Here is a summary of the k-means algorithm:
